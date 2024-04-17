@@ -18,3 +18,11 @@ The full paper can be found in the link below:
 ### [Full Paper](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:88b47033-1a06-3406-8a91-cf99f1142bd2)
 
 <br />
+<br />
+
+<h2>Results</h2>
+Our team secured the 5th position out of 18 groups for each of the individual models, demonstrating commendable consistency. Notably, we stood out as the sole group to achieve a top 5 ranking in every category. Below, we present the final mean absolute errors calculated from the last 58 games of the 2024 NBA season.
+
+Spread MAE: 12.63
+Total MAE: 15.44
+Offensive Rebounds MAE: 4.79
